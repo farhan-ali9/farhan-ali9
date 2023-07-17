@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-ali9&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-ali9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan-ali9" alt="farhan-ali9" /></a> </p>
-
 - 🔭 I’m currently solving problems on [Leatcode](https://leetcode.com/farhanali1/)
 
 - 🌱 I’m currently learning **Python, Machine Learning, Artificial Intelligence, Django**
 
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
 - 💬 Ask me about **Python, Machine Learning**
 
 - 📫 How to reach me **farhanghulam09876@gmail.com**
+
+- ⚡ Fun fact **Huge fan of puzzles and riddles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
