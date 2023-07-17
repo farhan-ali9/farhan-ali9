@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" height=350 width=450 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-ali9&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-ali9" /> </p>
 
